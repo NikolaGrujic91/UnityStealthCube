@@ -1,0 +1,98 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 22.19.171.257]
+    Renderer: Radeon (TM) RX 480 Graphics
+    Vendor:   ATI
+    VRAM:     4040 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.199 seconds
+Platform assembly: C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Nikola\Desktop\Stealth Cube Exe\StealthCube_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 50Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.035877 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 72c -> priority: 1 
+  Thread -> id: 155c -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Hidden/Dof/DX11Dof' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Dof/DX11Dof' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/CameraMotionBlurDX11' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CameraMotionBlurDX11' - Setting to default shader.
+UnloadTime: 5.183466 ms
+Obstacle List Length=434
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 14560.
+Total: 2.115331 ms (FindLiveObjects: 0.477803 ms CreateObjectMapping: 0.131491 ms MarkObjects: 1.396969 ms  DeleteObjects: 0.108811 ms)
+
+Start found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+End found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Start found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+End found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Start found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+End found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Start found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+End found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+IndexOutOfRangeException: Array index is out of range.
+  at NPCFollowingAStarPath.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at NPCFollowingAStarPath.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at NPCFollowingAStarPath.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at NPCFollowingAStarPath.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
