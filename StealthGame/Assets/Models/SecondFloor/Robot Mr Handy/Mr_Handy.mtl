@@ -1,0 +1,86 @@
+# 
+# 
+
+newmtl MrHandyArmor
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Mr_Handy_Armor_D.tga
+map_Bump Mr_Handy_Armor_N.tga
+
+newmtl MrHandyArms
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Mr_Handy_Arms_D.tga
+map_Bump Mr_Handy_Arms_N.tga
+
+newmtl MrHandyGlass
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Glass_D.tga
+map_Bump Glass_N.tga
+
+newmtl MrHandyHands
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Mr_Handy_Hands_D.tga
+map_Bump Mr_Handy_Hands_N.tga
+
+newmtl MrHandyLegs
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Mr_Handy_Legs_D.tga
+map_Bump Mr_Handy_Legs_N.tga
+
+newmtl MrHandyTorso
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Mr_Handy_Torso_D.tga
+map_Bump Mr_Handy_Torso_N.tga
+
+newmtl ThrusterFX
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.800000 0.800000 0.800000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Thruster_FX_D.tga
+map_d Thruster_FX_D.tga
